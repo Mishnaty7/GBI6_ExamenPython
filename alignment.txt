@@ -1,0 +1,110 @@
+CLUSTAL multiple sequence alignment by MUSCLE (3.8)
+
+
+CL569187.1      --------AGTAGTAGTAGTAGCAGTAGCAGTAGCAGTAGTAGTAGCAGTTAGCAGCAGC
+MW834595.1      ---------------------------------GTGGGACAGATTTCCAACTATTGCCCC
+MW834596.1      ------------------------------------CGGATCCCATCAGAACTCCGCAGT
+MW834598.1      -----------AACTATGTAGTGATGAATGATGCCACGGAAGGCGTGATGTTGTTCCT--
+MW834599.1      -------------------------------------------CTTCGCTCCTC------
+MW834597.1      ------------------ATGCTTTGAACACTTCTCGGTGGCTCTTCAATAAATACCTGA
+BI977687.1      GACATTCCTTCATCCATCTCATCTTCTTTGTCTCCCCATTTCCTTTCCATTTTCCTTCTC
+MW834594.1      --TTCTGCATTATTCATCACCCTTGTTTCACCTCTGAAGAAAACTACCAACTACCAACAC
+MW834600.1      ------------------------------------------------------------
+MW834601.1      ------------------------------------------------------------
+                                                                            
+
+CL569187.1      AGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGTAGCAGCAGCAGCAGCAGTAGCAGTAGC
+MW834595.1      ------------------------------------------------------------
+MW834596.1      CAAGCGTG----------------------------------------------------
+MW834598.1      ------------------------------------------------------------
+MW834599.1      ------------------------------------------------------------
+MW834597.1      ------------------------------------------------------------
+BI977687.1      CATTCTCTAGTTTTAAGTTTCTGCA-----------------------------------
+MW834594.1      AAGGAGACCAA-------------------------------------------------
+MW834600.1      ------------------------------------------------------------
+MW834601.1      ------------------------------------------------------------
+                                                                            
+
+CL569187.1      AGTAGCAGTAGCAGTAGCAGTAGCAGTAGTAGCAGTAGCAGTAGCAGTAGCAGTAGCAGT
+MW834595.1      ------------------------------------------------------------
+MW834596.1      --------------------------------------------------------CTTG
+MW834598.1      --------------------------------------------------------TGTT
+MW834599.1      ------------------------------------------------------------
+MW834597.1      ------------------------------------------------------------
+BI977687.1      --------------------------------------------------------TTTT
+MW834594.1      --------------------------------------------------------CAGG
+MW834600.1      ------------------------------------------------------------
+MW834601.1      ------------------------------------------------------------
+                                                                            
+
+CL569187.1      AGCAGTAGCAGTAGCAGTAGTAGCAGTAGC-AGTAGTAGCAGTAGCAGTAGTAGTAGTAG
+MW834595.1      ------AGTTCCACCAGTGTTGATGGGCGA-TGCCCCATCCTGTAGAGGTATGA------
+MW834596.1      GGCGAGAGTAGTACTAGGATGGGTGA-----CCTCCTGGGAAGTCCTCGTGTTG------
+MW834598.1      CACGTGAGCAGTGATGAAGAGAGAAGTCGACCAACA------------------------
+MW834599.1      ---------AGAGCAACCAGGTCCAAGCTCTCTTCTT-----------------------
+MW834597.1      -----GACTTGAACAATCCTGAGATGAAGCTTACGCTGGAAAGTACTGAAACTA------
+BI977687.1      CAAGCAAGAAGAGGAAGAAGAAGAAGGAGC-CGTGAAGATCATATC--------------
+MW834594.1      GAAAGAAGAAGAAGAAGAAGAAGAAGAAGA------------------------------
+MW834600.1      ---------------ATAATGGAAGGAAGC-TGTCCTGGCAAGAGGAAAC----------
+MW834601.1      GAAAACAGAACACCAAAAGAAAAAAAAATC-AAACATGCCACAACCCAACATTATT----
+                                                                            
+
+CL569187.1      TAGTAGTAGTAGTAGTAGCAGCAGC-----------------------------------
+MW834595.1      ---------------CTTTATTATT-----------------------------------
+MW834596.1      ---------------CACCTCTTTT-------------------------------TTCG
+MW834598.1      ---------------CACCTATGTT-----------------------------------
+MW834599.1      ---------------CTTCTTCTTC-----------------------------------
+MW834597.1      ---------------TACAAACTTT----------------------GATGAAATATACG
+BI977687.1      ---------------CTCCATCATCCACCTTGAAGGCTTGCTTCCAAGATTCAAGATCCA
+MW834594.1      ------------------------------------------------------------
+MW834600.1      ---------------CACCAACAGT-----------------------------------
+MW834601.1      ---------------CATCATCATT-----------------------------------
+                                                                            
+
+CL569187.1      AGCAGCAGCAG--CAGCAGCAGCAGCAGCAG----------------------TAGTAGT
+MW834595.1      ATTATTATTAT--TATTATTATTATTATTAT-----------------------------
+MW834596.1      ATTATTATTAT--TATTATTATTATTATTAT-----------------------------
+MW834598.1      TTCTTCTTCTT--CTTCTTCTTCTTCTTTCA-----------------------------
+MW834599.1      TTCTTCTTCTT--CTTCTTCTTCTTCATCAT-----------------------------
+MW834597.1      GACATGTACGTGAGACCTAGACCATTTGTGT-----------------------------
+BI977687.1      ACCATCTAGCT--CTCCATCTCCATCTCCACTCACGGTGTAATTCGTTCCTTTTCCTTGT
+MW834594.1      ------------------------------------------------------------
+MW834600.1      GAATTCAAGGT--CACCACCACCACCACCAC-----------------------------
+MW834601.1      ATCATCAAGAA--CACCACCACCACCACCAC-----------------------------
+                                                                            
+
+CL569187.1      AGTAGTAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGTAGTAGTAGTAGCAGTAGCAGT
+MW834595.1      ------------------------------------------------------------
+MW834596.1      ---------------------------------------------------------TAT
+MW834598.1      ------------------------------------------------------GGCTAT
+MW834599.1      ------------------------------------------------------------
+MW834597.1      ------------------------------------------------------GTGTGT
+BI977687.1      AACCTTTTTGGTTTCCTTGTTTGATTTCGTATGAACTTGTTTCTAGTTAACAATAATGTT
+MW834594.1      ------------------------------------------------------------
+MW834600.1      --------------------------------------------------CACCACCACC
+MW834601.1      --------------------------------------------------CACCACCCCT
+                                                                            
+
+CL569187.1      AGCAGTAGCAGCAGTACCAGCAGTACCAGCAGTAGCAGCAGTAGCAGCAGTAGCAGCAGT
+MW834595.1      -------------TATCTGGCTTTTTGTAGTCTTTTACTTGTTTTATTTGTTTAACC---
+MW834596.1      TTTGGCTTACGATCGTGGGCTTTCCATCGATATGTAATAATAGGCATT------------
+MW834598.1      TGAAGTTGGACCAGGACGTTGTTTTGTTAGAATTGGCCAACTACCATAACTGGTCCAGTT
+MW834599.1      ------------------CTTCTTCTAGAGCCTTCCGTTATTCTCA-TACTCGCACCTCT
+MW834597.1      GTGTGTGTGTGTGTGTGTGCGCATGGAAAGGAAACCATAGTTTCCAGTTCGTTCAATAT-
+BI977687.1      TAGGGCAAAGTTTAAGCCCAATTTCTATGT-------TTAAATAAAGTTTTCGAATTCTA
+MW834594.1      --------AGGGAAAACCCATTATTTTAGCAAACCCATTGTTTTCACTTCATTCACGCAA
+MW834600.1      AATAGTGAATTCAAGTTCCAATTTAAAGGGAATTCAGTTTTCTGCAGTTCTTGATGTACA
+MW834601.1      -----TAACCCCAAAGCCCACCATCA-----------TAAATTGCATCCCTTGTAAACCG
+                                                                           
+
+CL569187.1      AGCAGCAGCAGCAGCAGTAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGC
+MW834595.1      ---------------------------------------------------------
+MW834596.1      ---------------------------------------------------------
+MW834598.1      CAT------------------------------------------------------
+MW834599.1      CCTCCTGTAACC---------------------------------------------
+MW834597.1      ---------------------------------------------------------
+BI977687.1      TAATTGGGAAAAAAAAAA---------------------------------------
+MW834594.1      T--------------------------------------------------------
+MW834600.1      GATTAGTGGTGAAAAGGGGGTTGTACATGTTTTGGAA--------------------
+MW834601.1      TACCCCTGAA-----------------------------------------------
+                                                                         
